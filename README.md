@@ -12,5 +12,5 @@ It then greates a different list for each ticker that has:
 
 Here is a picture of the data before the script was run:
 
-![alt text](https://github.com/MacC88/VBA-challange/blob/main/screenshot_before.png?raw=true)
+![alt text](https://github.com/MacC88/VBA-challange/images/blob/main/screenshot_before.png?raw=true)
 
